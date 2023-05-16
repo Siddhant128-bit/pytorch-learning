@@ -9,5 +9,6 @@
 <p> &nbsp;&nbsp;&nbsp;&nbsp; For the basic Introduction I have divided the portion into 2 different notebooks ranging from very basics understanding of tensors to Matrix Multiplication which is what happens behind the scenes for Neural Networks and many more. You can Learn all these as: <br></p>
 
 <ul>
-    <li> <a href='1. Introduction_to_pytorch.ipynb'>Introduction to pytorch </a> </li>
+    <li> <a href='Notebooks/Introduction/1. Introduction_to_pytorch.ipynb'>Introduction to pytorch </a> </li>
+
 </ul>
