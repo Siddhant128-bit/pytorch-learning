@@ -10,5 +10,6 @@
 
 <ul>
     <li> <a href='Notebooks/Introduction/1. Introduction_to_pytorch.ipynb'>Introduction to pytorch </a> </li>
+    <li> <a href='Notebooks/Introduction/2. Introduction_to_pytorch_continued.ipynb'> Introduction to pytorch-continued </a></li> 
 
 </ul>
